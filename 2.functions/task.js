@@ -78,6 +78,7 @@ function makeWork(arrOfArr, func) {
   return maxWorkerResult;
 }
 
+
 module.exports = {
   getArrayParams,
   summElementsWorker,
